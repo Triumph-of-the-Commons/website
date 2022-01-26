@@ -1,22 +1,20 @@
-# website
-The website for [Triumph of the Commons](triumphofthecommons.net) (owned).
-
 # Premise
 
-The Triumph of the Commons is an advocacy organization that celebrates The Commons and the vital societal function they fulfill. TRIUMPH opposes the privatization of public resources and aims to remind people of all the incredible things the commons allow us to do. TRIUMPH is itself dedicated to the commons and will never be run for profit.
+The Triumph of the Commons (TRIUMPH) is a USA-based advocacy organization that celebrates The Commons and the vital societal functions they fulfill.
+TRIUMPH aims to 
+* remind people of all the incredible things the commons allow us to do,
+* advocate for the expansion of the commons,
+* advocate for the protection of the commons.
 
-The organization will be focused on advancing the commons in America specifically, because that specificity will make the articles more focused and target that audience more directly.
+TRIUMPH is itself dedicated to the commons and will never be run for profit.
 
 The main avenue for this advocacy will be creating, hosting, and publicizing articles about the commons.
-
-## Motto
-- The commons are vital
-- The commons are efficient
-- The commons must be rebuilt
 
 # Articles
 
 We will reach out to various experts and work with them to either write the article or help them do so. Unless/until fundraising is secured, all articles will be written on a volunteer basis.
+
+These articles will be hosted on [Triumph of the Commons](triumphofthecommons.net) (owned) and will focus on the commons in the United States of America.
 
 For now, all articles will fit into the following three categories.
 
