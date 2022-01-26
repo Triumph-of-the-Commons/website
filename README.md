@@ -14,7 +14,7 @@ The main avenue for this advocacy will be creating, hosting, and publicizing art
 
 We will reach out to various experts and work with them to either write the article or help them do so. Unless/until fundraising is secured, all articles will be written on a volunteer basis.
 
-These articles will be hosted on [Triumph of the Commons](triumphofthecommons.net) (owned) and will focus on the commons in the United States of America.
+These articles will be hosted on [Triumph of the Commons](triumphofthecommons.net) (acquired) and will focus on the commons in the United States of America.
 
 For now, all articles will fit into the following three categories.
 
